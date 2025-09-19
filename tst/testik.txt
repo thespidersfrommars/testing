@@ -4,3 +4,4 @@ nvm
 janevim
 chci domu
 kmstonite
+dopici uz
